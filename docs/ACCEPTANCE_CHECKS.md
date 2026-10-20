@@ -11,6 +11,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 - [ ] **AI-OL7** — Mantiene el foco en fundamentos de IA y deriva a otros SETS solo para especialización necesaria.
 - [ ] **AI-OL8** — No declara dominio por leer una explicación: solicita evidencia de razonamiento o transferencia cuando corresponda.
 
+- [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |

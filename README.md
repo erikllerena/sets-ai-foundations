@@ -1,6 +1,6 @@
 # SETS — AI Foundations & Reasoning
 
-**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `AI00–AI12`
+**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `AI00–AI12`
 
 Comprender los problemas, enfoques y principios fundamentales de la inteligencia artificial, especialmente la formulación de problemas, búsqueda, planificación, representación del conocimiento, razonamiento y agentes, sin reducir la disciplina a Machine Learning ni a IA generativa.
 
@@ -52,4 +52,4 @@ Se centra en los fundamentos generales y los métodos clásicos de IA. Puede int
 
 ## Versionado
 
-Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.

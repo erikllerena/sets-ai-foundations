@@ -6,7 +6,7 @@ framework:
   project_domain: AI Foundations & Reasoning
   objective_role: AI Foundations Learner
 program:
-  version: 1.0.2
+  version: 1.0.4
   repository: sets-ai-foundations
   competency_namespace: AI
   scope: >-
